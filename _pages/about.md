@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic pages for Anton Malmi"
+title: "Academic page for Anton Malmi"
 author_profile: true
 redirect_from: 
   - /about/

@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "My academic homepage"
 title_separator          : "-"
 name                     : &name "Anton Malmi"
 description              : &description "personal description"

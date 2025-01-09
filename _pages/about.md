@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome
+I am currently working on a project called "The Articulatory Properties of Children's Acquisition of Estonian Palatalization" in collaboration with Claire Nance from Lancaster University, UK. 
 
 Title
 ======

@@ -1,4 +1,5 @@
 ---
+title: "The project about children"
 permalink: /projects/projects.md
 
 ---

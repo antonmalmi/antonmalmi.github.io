@@ -1,6 +1,8 @@
 ---
-title: "The project about children"
-collection: projects
-permalink: /projects/projects
+permalink: /
+author_profile: true
+redirect_from: 
+  - /projects/
+  - /projects.md
 ---
 <p align="justify"> The project about children </p>

@@ -1,6 +1,6 @@
 ---
 permalink: /
-autor_profile: false
+autor_profile: true
 redirect_from: 
   - /projects/
   - /projects.md

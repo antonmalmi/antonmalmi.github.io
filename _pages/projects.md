@@ -7,4 +7,6 @@ sidebar:
 entries_layout: grid
 ---
 
-<p>Here are the projects that I am currently involved in</p>
+Here are the projects that I am currently involved in:
+
+- [Postdoc Research Project](/projects/postdoc-research/)

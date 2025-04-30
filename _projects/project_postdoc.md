@@ -3,6 +3,7 @@ title: "Postdoc project about child articulation"
 layout: single
 excerpt: "A short summary of the project."
 permalink: /projects/project_postdoc/
+share: false
 ---
 
 ## Project overview

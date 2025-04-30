@@ -15,7 +15,10 @@ Preliminary regression analyses indicate that reaction times decrease as written
 By making this dataset freely available, we aim to facilitate research on morphological processing, spoken word recognition, and computational modeling in Estonian and in other morphologically rich languages. This resource complements existing auditory lexical decision datasets and contributes to a more comprehensive understanding of morphological effects in spoken language processing.
 
 ## Collaborators
-Kaidi Lõo – Project lead
+- Kaidi Lõo – Project lead
+- Anton Malmi - Researcher
+- Benjamin Tucker - Consultant
+
 
 ## References
 Ernestus, M., & Cutler, A. (2015). BALDEY: A database of auditory lexical decisions. Quarterly Journal of Experimental Psychology, 68(8), 1469-1488.

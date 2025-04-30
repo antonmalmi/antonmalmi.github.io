@@ -7,5 +7,5 @@ entries_layout: grid
 
 Here are the projects that I am currently involved in:
 
-- [Postdoc Research Project](/projects/postdoc/)
-- [Sayest mobile app](/projects/sayest/)
+- [Postdoc Research Project](/projects/project_postdoc/)
+- [Sayest mobile app](/projects/project_sayest/)

@@ -12,7 +12,7 @@ main:
 #    url: /talks/    
 
   - title: "Projects"
-  url: /projects/    
+    url: /projects/    
       
   - title: "CV"
     url: https://www.etis.ee/CV/Anton_Malmi/eng/

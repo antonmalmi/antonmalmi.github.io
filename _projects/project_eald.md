@@ -30,11 +30,11 @@ permalink: /projects/project_eald/
 
 
 ## References
-Ernestus, M., & Cutler, A. (2015). BALDEY: A database of auditory lexical decisions. Quarterly Journal of Experimental Psychology, 68(8), 1469-1488.
+<div style="text-align: justify;"> 
+<p>Ernestus, M., & Cutler, A. (2015). BALDEY: A database of auditory lexical decisions. Quarterly Journal of Experimental Psychology, 68(8), 1469-1488.
 Ferrand, L., Méot, ... & Grainger, J. (2018). MEGALEX: A megastudy of visual and auditory word recognition. Behavior Research Methods, 50, 1285-1307.
 Lange, K., Kühn, S., & Filevich, E. (2015). Just another tool for online studies (JATOS): An easy solution for setup and management of web servers supporting online studies. PloS one, 10(6), e0130834.
-
 Lõo, K., Järvikivi, J., and Baayen, R. H. (2018). Whole-word frequency and inflectional paradigm size
 facilitate Estonian case-inflected noun processing. Cognition, 175:20–25.
-
-Tucker, B. V., Brenner, D…, & Sims, M. (2019). The massive auditory lexical decision (MALD) database. Behavior Research Methods, 51, 1187-1204.
+Tucker, B. V., Brenner, D…, & Sims, M. (2019). The massive auditory lexical decision (MALD) database. Behavior Research Methods, 51, 1187-1204.</p>
+</div> 

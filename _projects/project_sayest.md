@@ -4,4 +4,3 @@ excerpt: "A short summary of the project."
 layout: single
 permalink: /projects/sayest/
 ---
-

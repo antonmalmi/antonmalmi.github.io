@@ -3,7 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
+redirect_from: https://www.etis.ee/CV/Anton_Malmi/eng/
   - /resume
 ---
 

@@ -12,5 +12,5 @@ This project explores the lingual differentiation of children's production of Es
 ## Methodology
 We are using Ultrasound Tongue Imaging (UTI) to study the productions
 
-# Collaborators:
+## Collaborators:
 - [Claire Nance] – [Project superviser]

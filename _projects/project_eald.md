@@ -8,7 +8,7 @@ permalink: /projects/project_eald/
 ## Project overview
 
 <div style="text-align: justify;"> 
-<p> Large-scale lexical decision databases are important for understanding word recognition, yet the few current auditory lexical decision datasets (Dutch: Ernestus & Cutler, 2015; French: Ferrand et al., 2018, and English: Tucker et al., 2019) focus on rather morphological simple languages. To address this gap, we introduce the Estonian Auditory Lexical Decision Database (EALD), a dataset with responses from 412 native Estonian speakers (aged 18-72 years; 321 females, 85 males, 10 non-binary) to 8800 Estonian words and 8800 pseudowords, collected online using the OpenSesame software and the JATOS server Mindprobe (Lange et al., 2015). </p>
+<p> Large-scale lexical decision databases are important for understanding word recognition, yet the few current auditory lexical decision datasets (Dutch: Ernestus & Cutler, 2015; French: Ferrand et al., 2018, and English: Tucker et al., 2019) focus on rather morphologically simple languages. To address this gap, we introduce the Estonian Auditory Lexical Decision Database (EALD), a dataset with responses from 412 native Estonian speakers (aged 18-72 years; 321 females, 85 males, 10 non-binary) to 8800 Estonian words and 8800 pseudowords, collected online using the OpenSesame software and the JATOS server Mindprobe (Lange et al., 2015). </p>
 </div> 
 
 <div style="text-align: justify;"> 
@@ -20,7 +20,7 @@ permalink: /projects/project_eald/
 </div> 
 
 <div style="text-align: justify;"> 
-<p>By making this dataset freely available, we aim to facilitate research on morphological processing, spoken word recognition, and computational modeling in Estonian and in other morphologically rich languages. This resource complements existing auditory lexical decision datasets and contributes to a more comprehensive understanding of morphological effects in spoken language processing.</p>
+<p>By making this dataset freely available, we aim to facilitate research on morphological processing, spoken word recognition, and computational modelling in Estonian and in other morphologically rich languages. This resource complements existing auditory lexical decision datasets and contributes to a more comprehensive understanding of morphological effects in spoken language processing.</p>
 </div> 
 
 ## Collaborators
@@ -31,10 +31,9 @@ permalink: /projects/project_eald/
 
 ## References
 <div style="text-align: justify;"> 
-<p>Ernestus, M., & Cutler, A. (2015). BALDEY: A database of auditory lexical decisions. Quarterly Journal of Experimental Psychology, 68(8), 1469-1488.
-Ferrand, L., Méot, ... & Grainger, J. (2018). MEGALEX: A megastudy of visual and auditory word recognition. Behavior Research Methods, 50, 1285-1307.
-Lange, K., Kühn, S., & Filevich, E. (2015). Just another tool for online studies (JATOS): An easy solution for setup and management of web servers supporting online studies. PloS one, 10(6), e0130834.
-Lõo, K., Järvikivi, J., and Baayen, R. H. (2018). Whole-word frequency and inflectional paradigm size
-facilitate Estonian case-inflected noun processing. Cognition, 175:20–25.
-Tucker, B. V., Brenner, D…, & Sims, M. (2019). The massive auditory lexical decision (MALD) database. Behavior Research Methods, 51, 1187-1204.</p>
+<p>Ernestus, M., & Cutler, A. (2015). BALDEY: A database of auditory lexical decisions. Quarterly Journal of Experimental Psychology, 68(8), 1469-1488.</p>
+<p>Ferrand, L., Méot, ... & Grainger, J. (2018). MEGALEX: A megastudy of visual and auditory word recognition. Behavior Research Methods, 50, 1285-1307.</p>
+<p>Lange, K., Kühn, S., & Filevich, E. (2015). Just another tool for online studies (JATOS): An easy solution for setup and management of web servers supporting online studies. PloS one, 10(6), e0130834.</p>
+<p>Lõo, K., Järvikivi, J., and Baayen, R. H. (2018). Whole-word frequency and inflectional paradigm size facilitate Estonian case-inflected noun processing. Cognition, 175:20–25.</p>
+<p>Tucker, B. V., Brenner, D…, & Sims, M. (2019). The massive auditory lexical decision (MALD) database. Behavior Research Methods, 51, 1187-1204.</p>
 </div> 

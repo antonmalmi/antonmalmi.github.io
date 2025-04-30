@@ -1,8 +1,8 @@
 ---
-title: "LexEst: a mobile app for practicing Estonian pronunciation"
+title: "LexEst: a fast and short vocabulary test"
 layout: single
 excerpt: "A short summary of the project."
-permalink: /projects/project_sayest/
+permalink: /projects/project_lexest/
 ---
 
 ## Project overview

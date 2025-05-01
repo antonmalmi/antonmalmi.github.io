@@ -13,6 +13,16 @@ permalink: /projects/project_postdoc/
 
 <p>In palatalised consonants, the primary place of articulation on the alveoli is accompanied by a secondary place of articulation on the hard palate (Bateman, 2011; Malmi, 2022). With palatalisation, the body of the tongue is fronted and raised, and the tongue is constricted at two points in the oral cavity. Such consonants require the near-simultaneous coordination of multiple parts of the tongue and are presumably harder to acquire for children than for adults. The mapping of the acquisition of palatalisation will give us a better understanding of how children learn to control and coordinate their vocal tract with age.</p>
 </div>
+
+## Conferences and talks
+- Lancaster University (March 11, 2025, Lancaster, UK)
+- Fonetik 2025 (May 21-23, 2025, Växjö, Sweden)
+- The 46th International Child Phonology Conference (May 28-20, 2025, Budapest, Hungary),
+- University College London (June 5, 2025, London, UK) and MEDAL conference (October 9-10, Tartu, Estonia)
+  
+## OSF repository
+https://osf.io/vs846/
+
 ## Collaborators:
 - Anton Malmi - Project lead
 - Claire Nance – Project supervisor

@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "bio-photo.jpg.jpg"
-  name             : "Anton Malmi"
+  #name             : "Anton Malmi"
   pronouns         : # example: "she/her"  
   bio              : "Researcher in Phonetics"
   location         : #""
